@@ -1,0 +1,1526 @@
+[
+    {
+        "name": "Afghanistan",
+        "iso-code-2": "AF",
+        "country-code": "004",
+        "phone-code": "93"
+    },
+    {
+        "name": "Åland Islands",
+        "iso-code-2": "AX",
+        "country-code": "248",
+        "phone-code": "358"        
+    },
+    {
+        "name": "Albania",
+        "iso-code-2": "AL",
+        "country-code": "008",
+        "phone-code": "358"        
+    },
+    {
+        "name": "Algeria",
+        "iso-code-2": "DZ",
+        "country-code": "012",
+        "phone-code": "213"
+    },
+    {
+        "name": "American Samoa",
+        "iso-code-2": "AS",
+        "country-code": "016",
+        "phone-code": "1-684"
+    },
+    {
+        "name": "Andorra",
+        "iso-code-2": "AD",
+        "country-code": "020",
+        "phone-code": "376"
+    },
+    {
+        "name": "Angola",
+        "iso-code-2": "AO",
+        "country-code": "024",
+        "phone-code": "244"
+    },
+    {
+        "name": "Anguilla",
+        "iso-code-2": "AI",
+        "country-code": "660",
+        "phone-code": "1-264"
+    },
+    {
+        "name": "Antarctica",
+        "iso-code-2": "AQ",
+        "country-code": "010",
+        "phone-code": "672"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "iso-code-2": "AG",
+        "country-code": "028",
+        "phone-code": "1-268"
+    },
+    {
+        "name": "Argentina",
+        "iso-code-2": "AR",
+        "country-code": "032",
+        "phone-code": "54"
+    },
+    {
+        "name": "Armenia",
+        "iso-code-2": "AM",
+        "country-code": "051",
+        "phone-code": "374"
+    },
+    {
+        "name": "Aruba",
+        "iso-code-2": "AW",
+        "country-code": "533",
+        "phone-code": "297"
+    },
+    {
+        "name": "Australia",
+        "iso-code-2": "AU",
+        "country-code": "036",
+        "phone-code": "61"
+    },
+    {
+        "name": "Austria",
+        "iso-code-2": "AT",
+        "country-code": "040",
+        "phone-code": "43"
+    },
+    {
+        "name": "Azerbaijan",
+        "iso-code-2": "AZ",
+        "country-code": "031",
+        "phone-code": "994"
+    },
+    {
+        "name": "Bahamas",
+        "iso-code-2": "BS",
+        "country-code": "044",
+        "phone-code": "1-242"
+    },
+    {
+        "name": "Bahrain",
+        "iso-code-2": "BH",
+        "country-code": "048",
+        "phone-code": "973"
+    },
+    {
+        "name": "Bangladesh",
+        "iso-code-2": "BD",
+        "country-code": "050",
+        "phone-code": "880"
+    },
+    {
+        "name": "Barbados",
+        "iso-code-2": "BB",
+        "country-code": "052",
+        "phone-code": "1-246"
+    },
+    {
+        "name": "Belarus",
+        "iso-code-2": "BY",
+        "country-code": "112",
+        "phone-code": "375"
+    },
+    {
+        "name": "Belgium",
+        "iso-code-2": "BE",
+        "country-code": "056",
+        "phone-code": "32"
+    },
+    {
+        "name": "Belize",
+        "iso-code-2": "BZ",
+        "country-code": "084",
+        "phone-code": "501"
+    },
+    {
+        "name": "Benin",
+        "iso-code-2": "BJ",
+        "country-code": "204",
+        "phone-code": "229"
+    },
+    {
+        "name": "Bermuda",
+        "iso-code-2": "BM",
+        "country-code": "060",
+        "phone-code": "1-441"
+    },
+    {
+        "name": "Bhutan",
+        "iso-code-2": "BT",
+        "country-code": "064",
+        "phone-code": "975"
+    },
+    {
+        "name": "Bolivia (Plurinational State of)",
+        "iso-code-2": "BO",
+        "country-code": "068",
+        "phone-code": "591"
+    },
+    {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "iso-code-2": "BQ",
+        "country-code": "535",
+        "phone-code": "599"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "iso-code-2": "BA",
+        "country-code": "070",
+        "phone-code": "387"
+    },
+    {
+        "name": "Botswana",
+        "iso-code-2": "BW",
+        "country-code": "072",
+        "phone-code": "267"
+    },
+    {
+        "name": "Bouvet Island",
+        "iso-code-2": "BV",
+        "country-code": "074",
+        "phone-code": "47"
+    },
+    {
+        "name": "Brazil",
+        "iso-code-2": "BR",
+        "country-code": "076",
+        "phone-code": "55"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "iso-code-2": "IO",
+        "country-code": "086",
+        "phone-code": "246"
+    },
+    {
+        "name": "Brunei Darussalam",
+        "iso-code-2": "BN",
+        "country-code": "096",
+        "phone-code": "673"
+    },
+    {
+        "name": "Bulgaria",
+        "iso-code-2": "BG",
+        "country-code": "100",
+        "phone-code": "359"
+    },
+    {
+        "name": "Burkina Faso",
+        "iso-code-2": "BF",
+        "country-code": "854",
+        "phone-code": "226"
+    },
+    {
+        "name": "Burundi",
+        "iso-code-2": "BI",
+        "country-code": "108",
+        "phone-code": "257"
+    },
+    {
+        "name": "Cabo Verde",
+        "iso-code-2": "CV",
+        "country-code": "132",
+        "phone-code": "238"
+    },
+    {
+        "name": "Cambodia",
+        "iso-code-2": "KH",
+        "country-code": "116",
+        "phone-code": "855"
+    },
+    {
+        "name": "Cameroon",
+        "iso-code-2": "CM",
+        "country-code": "120",
+        "phone-code": "237"
+    },
+    {
+        "name": "Canada",
+        "iso-code-2": "CA",
+        "country-code": "124",
+        "phone-code": "1"
+    },
+    {
+        "name": "Cape Verde",
+        "iso-code-2": "CV",
+        "country-code": "132",
+        "phone-code": "238"
+    },
+    {
+        "name": "Cayman Islands",
+        "iso-code-2": "KY",
+        "country-code": "136",
+        "phone-code": "1-345"
+    },
+    {
+        "name": "Central African Republic",
+        "iso-code-2": "CF",
+        "country-code": "140",
+        "phone-code": "236"
+    },
+    {
+        "name": "Chad",
+        "iso-code-2": "TD",
+        "country-code": "148",
+        "phone-code": "235"
+    },
+    {
+        "name": "Chile",
+        "iso-code-2": "CL",
+        "country-code": "152",
+        "phone-code": "56"
+    },
+    {
+        "name": "China",
+        "iso-code-2": "CN",
+        "country-code": "156",
+        "phone-code": "86"
+    },
+    {
+        "name": "Christmas Island",
+        "iso-code-2": "CX",
+        "country-code": "162",
+        "phone-code": "61"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "iso-code-2": "CC",
+        "country-code": "166",
+        "phone-code": "61"
+    },
+    {
+        "name": "Colombia",
+        "iso-code-2": "CO",
+        "country-code": "170",
+        "phone-code": "57"
+    },
+    {
+        "name": "Comoros",
+        "iso-code-2": "KM",
+        "country-code": "174",
+        "phone-code": "269"
+    },
+    {
+        "name": "Congo",
+        "iso-code-2": "CG",
+        "country-code": "178",
+        "phone-code": "242"
+    },
+    {
+        "name": "Congo, Democratic Republic of the",
+        "iso-code-2": "CD",
+        "country-code": "180",
+        "phone-code": "243"
+    },
+    {
+        "name": "Cook Islands",
+        "iso-code-2": "CK",
+        "country-code": "184",
+        "phone-code": "682"
+    },
+    {
+        "name": "Costa Rica",
+        "iso-code-2": "CR",
+        "country-code": "188",
+        "phone-code": "506"
+    },
+    {
+        "name": "Croatia",
+        "iso-code-2": "HR",
+        "country-code": "191",
+        "phone-code": "385"
+    },
+    {
+        "name": "Cuba",
+        "iso-code-2": "CU",
+        "country-code": "192",
+        "phone-code": "53"
+    },
+    {
+        "name": "Curaçao",
+        "iso-code-2": "CW",
+        "country-code": "531",
+        "phone-code": "599"
+    },
+    {
+        "name": "Cyprus",
+        "iso-code-2": "CY",
+        "country-code": "196",
+        "phone-code": "357"
+    },
+    {
+        "name": "Czechia",
+        "iso-code-2": "CZ",
+        "country-code": "203",
+        "phone-code": "420"
+    },
+    {
+        "name": "Denmark",
+        "iso-code-2": "DK",
+        "country-code": "208",
+        "phone-code": "45"
+    },
+    {
+        "name": "Djibouti",
+        "iso-code-2": "DJ",
+        "country-code": "262",
+        "phone-code": "253"
+    },
+    {
+        "name": "Dominica",
+        "iso-code-2": "DM",
+        "country-code": "212",
+        "phone-code": "1-767"
+    },
+    {
+        "name": "Dominican Republic",
+        "iso-code-2": "DO",
+        "country-code": "214",
+        "phone-code": "1-809, 1-829, 1-849"
+    },
+    {
+        "name": "East Timor",
+        "iso-code-2": "TL",
+        "country-code": "626",
+        "phone-code": "670"
+    },
+    {
+        "name": "Ecuador",
+        "iso-code-2": "EC",
+        "country-code": "218",
+        "phone-code": "593"
+    },
+    {
+        "name": "Egypt",
+        "iso-code-2": "EG",
+        "country-code": "818",
+        "phone-code": "20"
+    },
+    {
+        "name": "El Salvador",
+        "iso-code-2": "SV",
+        "country-code": "222",
+        "phone-code": "503"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "iso-code-2": "GQ",
+        "country-code": "226",
+        "phone-code": "240"
+    },
+    {
+        "name": "Eritrea",
+        "iso-code-2": "ER",
+        "country-code": "232",
+        "phone-code": "291"
+    },
+    {
+        "name": "Estonia",
+        "iso-code-2": "EE",
+        "country-code": "233",
+        "phone-code": "372"
+    },
+    {
+        "name": "Eswatini",
+        "iso-code-2": "SZ",
+        "country-code": "748",
+        "phone-code": "268"
+    },
+    {
+        "name": "Ethiopia",
+        "iso-code-2": "ET",
+        "country-code": "231",
+        "phone-code": "251"
+    },
+    {
+        "name": "Falkland Islands (Malvinas)",
+        "iso-code-2": "FK",
+        "country-code": "238",
+        "phone-code": "500"
+    },
+    {
+        "name": "Faroe Islands",
+        "iso-code-2": "FO",
+        "country-code": "234",
+        "phone-code": "298"
+    },
+    {
+        "name": "Fiji",
+        "iso-code-2": "FJ",
+        "country-code": "242",
+        "phone-code": "679"
+    },
+    {
+        "name": "Finland",
+        "iso-code-2": "FI",
+        "country-code": "246",
+        "phone-code": "358"
+    },
+    {
+        "name": "France",
+        "iso-code-2": "FR",
+        "country-code": "250",
+        "phone-code": "33"
+    },
+    {
+        "name": "French Guiana",
+        "iso-code-2": "GF",
+        "country-code": "254",
+        "phone-code": "594"
+    },
+    {
+        "name": "French Polynesia",
+        "iso-code-2": "PF",
+        "country-code": "258",
+        "phone-code": "689"
+    },
+    {
+        "name": "French Southern Territories",
+        "iso-code-2": "TF",
+        "country-code": "260",
+        "phone-code": "262"
+    },
+    {
+        "name": "Gabon",
+        "iso-code-2": "GA",
+        "country-code": "266",
+        "phone-code": "241"
+    },
+    {
+        "name": "Gambia",
+        "iso-code-2": "GM",
+        "country-code": "270",
+        "phone-code": "220"
+    },
+    {
+        "name": "Georgia",
+        "iso-code-2": "GE",
+        "country-code": "268",
+        "phone-code": "995"
+    },
+    {
+        "name": "Germany",
+        "iso-code-2": "DE",
+        "country-code": "276",
+        "phone-code": "49"
+    },
+    {
+        "name": "Ghana",
+        "iso-code-2": "GH",
+        "country-code": "288",
+        "phone-code": "233"
+    },
+    {
+        "name": "Gibraltar",
+        "iso-code-2": "GI",
+        "country-code": "292",
+        "phone-code": "350"
+    },
+    {
+        "name": "Greece",
+        "iso-code-2": "GR",
+        "country-code": "300",
+        "phone-code": "30"
+    },
+    {
+        "name": "Greenland",
+        "iso-code-2": "GL",
+        "country-code": "304",
+        "phone-code": "299"
+    },
+    {
+        "name": "Grenada",
+        "iso-code-2": "GD",
+        "country-code": "308",
+        "phone-code": "1-473"
+    },
+    {
+        "name": "Guadeloupe",
+        "iso-code-2": "GP",
+        "country-code": "312",
+        "phone-code": "590"
+    },
+    {
+        "name": "Guam",
+        "iso-code-2": "GU",
+        "country-code": "316",
+        "phone-code": "1-671"
+    },
+    {
+        "name": "Guatemala",
+        "iso-code-2": "GT",
+        "country-code": "320",
+        "phone-code": "502"
+    },
+    {
+        "name": "Guernsey",
+        "iso-code-2": "GG",
+        "country-code": "831",
+        "phone-code": "44-1481"
+    },
+    {
+        "name": "Guinea",
+        "iso-code-2": "GN",
+        "country-code": "324",
+        "phone-code": "224"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "iso-code-2": "GW",
+        "country-code": "624",
+        "phone-code": "245"
+    },
+    {
+        "name": "Guyana",
+        "iso-code-2": "GY",
+        "country-code": "328",
+        "phone-code": "592"
+    },
+    {
+        "name": "Haiti",
+        "iso-code-2": "HT",
+        "country-code": "332",
+        "phone-code": "509"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "iso-code-2": "HM",
+        "country-code": "334",
+        "phone-code": "672"
+    },
+    {
+        "name": "Holy See",
+        "iso-code-2": "VA",
+        "country-code": "336",
+        "phone-code": "379"
+    },
+    {
+        "name": "Honduras",
+        "iso-code-2": "HN",
+        "country-code": "340",
+        "phone-code": "504"
+    },
+    {
+        "name": "Hong Kong",
+        "iso-code-2": "HK",
+        "country-code": "344",
+        "phone-code": "852"
+    },
+    {
+        "name": "Hungary",
+        "iso-code-2": "HU",
+        "country-code": "348",
+        "phone-code": "36"
+    },
+    {
+        "name": "Iceland",
+        "iso-code-2": "IS",
+        "country-code": "352",
+        "phone-code": "354"
+    },
+    {
+        "name": "India",
+        "iso-code-2": "IN",
+        "country-code": "356",
+        "phone-code": "91"
+    },
+    {
+        "name": "Indonesia",
+        "iso-code-2": "ID",
+        "country-code": "360",
+        "phone-code": "62"
+    },
+    {
+        "name": "Iran (Islamic Republic of)",
+        "iso-code-2": "IR",
+        "country-code": "364",
+        "phone-code": "98"
+    },
+    {
+        "name": "Iraq",
+        "iso-code-2": "IQ",
+        "country-code": "368",
+        "phone-code": "964"
+    },
+    {
+        "name": "Ireland",
+        "iso-code-2": "IE",
+        "country-code": "372",
+        "phone-code": "353"
+    },
+    {
+        "name": "Isle of Man",
+        "iso-code-2": "IM",
+        "country-code": "833",
+        "phone-code": "44-1624"
+    },
+    {
+        "name": "Israel",
+        "iso-code-2": "IL",
+        "country-code": "376",
+        "phone-code": "972"
+    },
+    {
+        "name": "Italy",
+        "iso-code-2": "IT",
+        "country-code": "380",
+        "phone-code": "972"
+    },
+    {
+        "name": "Ivory Coast",
+        "iso-code-2": "CI",
+        "country-code": "384",
+        "phone-code": "225"
+    },
+    {
+        "name": "Jamaica",
+        "iso-code-2": "JM",
+        "country-code": "388",
+        "phone-code": "1-876"
+    },
+    {
+        "name": "Japan",
+        "iso-code-2": "JP",
+        "country-code": "392",
+        "phone-code": "81"
+    },
+    {
+        "name": "Jersey",
+        "iso-code-2": "JE",
+        "country-code": "832",
+        "phone-code": "44-1534"
+    },
+    {
+        "name": "Jordan",
+        "iso-code-2": "JO",
+        "country-code": "400",
+        "phone-code": "962"
+    },
+    {
+        "name": "Kazakhstan",
+        "iso-code-2": "KZ",
+        "country-code": "398",
+        "phone-code": "7"
+    },
+    {
+        "name": "Kenya",
+        "iso-code-2": "KE",
+        "country-code": "404",
+        "phone-code": "254"
+    },
+    {
+        "name": "Kiribati",
+        "iso-code-2": "KI",
+        "country-code": "296",
+        "phone-code": "686"
+    },
+    {
+        "name": "Kosovo",
+        "iso-code-2": "XK",
+        "country-code": "383",
+        "phone-code": "383"
+    },
+    {
+        "name": "Korea, Republic of",
+        "iso-code-2": "KR",
+        "country-code": "410",
+        "phone-code": "82"
+    },
+    {
+        "name": "Kuwait",
+        "iso-code-2": "KW",
+        "country-code": "414",
+        "phone-code": "965"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "iso-code-2": "KG",
+        "country-code": "417",
+        "phone-code": "996"
+    },
+    {
+        "name": "Laos",
+        "iso-code-2": "LA",
+        "country-code": "418",
+        "phone-code": "856"
+    },
+    {
+        "name": "Latvia",
+        "iso-code-2": "LV",
+        "country-code": "428",
+        "phone-code": "371"
+    },
+    {
+        "name": "Lebanon",
+        "iso-code-2": "LB",
+        "country-code": "422",
+        "phone-code": "961"
+    },
+    {
+        "name": "Lesotho",
+        "iso-code-2": "LS",
+        "country-code": "426",
+        "phone-code": "266"
+    },
+    {
+        "name": "Liberia",
+        "iso-code-2": "LR",
+        "country-code": "430",
+        "phone-code": "231"
+    },
+    {
+        "name": "Libya",
+        "iso-code-2": "LY",
+        "country-code": "434",
+        "phone-code": "218"
+    },
+    {
+        "name": "Liechtenstein",
+        "iso-code-2": "LI",
+        "country-code": "438",
+        "phone-code": "423"
+    },
+    {
+        "name": "Lithuania",
+        "iso-code-2": "LT",
+        "country-code": "440",
+        "phone-code": "370"
+    },
+    {
+        "name": "Luxembourg",
+        "iso-code-2": "LU",
+        "country-code": "442",
+        "phone-code": "352"
+    },
+    {
+        "name": "Macao",
+        "iso-code-2": "MO",
+        "country-code": "446",
+        "phone-code": "853"
+    },
+    {
+        "name": "Madagascar",
+        "iso-code-2": "MG",
+        "country-code": "450",
+        "phone-code": "261"
+    },
+    {
+        "name": "Malawi",
+        "iso-code-2": "MW",
+        "country-code": "454",
+        "phone-code": "265"
+    },
+    {
+        "name": "Malaysia",
+        "iso-code-2": "MY",
+        "country-code": "458",
+        "phone-code": "60"
+    },
+    {
+        "name": "Maldives",
+        "iso-code-2": "MV",
+        "country-code": "462",
+        "phone-code": "960"
+    },
+    {
+        "name": "Mali",
+        "iso-code-2": "ML",
+        "country-code": "466",
+        "phone-code": "223"
+    },
+    {
+        "name": "Malta",
+        "iso-code-2": "MT",
+        "country-code": "470",
+        "phone-code": "356"
+    },
+    {
+        "name": "Marshall Islands",
+        "iso-code-2": "MH",
+        "country-code": "584",
+        "phone-code": "692"
+    },
+    {
+        "name": "Martinique",
+        "iso-code-2": "MQ",
+        "country-code": "474",
+        "phone-code": ""
+    },
+    {
+        "name": "Mauritania",
+        "iso-code-2": "MR",
+        "country-code": "478",
+        "phone-code": "222"
+    },
+    {
+        "name": "Mauritius",
+        "iso-code-2": "MU",
+        "country-code": "480",
+        "phone-code": "230"
+    },
+    {
+        "name": "Mayotte",
+        "iso-code-2": "YT",
+        "country-code": "175",
+        "phone-code": "262"
+    },
+    {
+        "name": "Mexico",
+        "iso-code-2": "MX",
+        "country-code": "484",
+        "phone-code": "52"
+    },
+    {
+        "name": "Micronesia (Federated States of)",
+        "iso-code-2": "FM",
+        "country-code": "583",
+        "phone-code": "691"
+    },
+    {
+        "name": "Moldova, Republic of",
+        "iso-code-2": "MD",
+        "country-code": "498",
+        "phone-code": "373"
+    },
+    {
+        "name": "Monaco",
+        "iso-code-2": "MC",
+        "country-code": "492",
+        "phone-code": "377"
+    },
+    {
+        "name": "Mongolia",
+        "iso-code-2": "MN",
+        "country-code": "496",
+        "phone-code": "976"
+    },
+    {
+        "name": "Montenegro",
+        "iso-code-2": "ME",
+        "country-code": "499",
+        "phone-code": "382"
+    },
+    {
+        "name": "Montserrat",
+        "iso-code-2": "MS",
+        "country-code": "500",
+        "phone-code": "1-664"
+    },
+    {
+        "name": "Morocco",
+        "iso-code-2": "MA",
+        "country-code": "504",
+        "phone-code": "212"
+    },
+    {
+        "name": "Mozambique",
+        "iso-code-2": "MZ",
+        "country-code": "508",
+        "phone-code": "258"
+    },
+    {
+        "name": "Myanmar",
+        "iso-code-2": "MM",
+        "country-code": "104",
+        "phone-code": "95"
+    },
+    {
+        "name": "Namibia",
+        "iso-code-2": "NA",
+        "country-code": "516",
+        "phone-code": "264"
+    },
+    {
+        "name": "Nauru",
+        "iso-code-2": "NR",
+        "country-code": "520",
+        "phone-code": "674"
+    },
+    {
+        "name": "Nepal",
+        "iso-code-2": "NP",
+        "country-code": "524",
+        "phone-code": "977"
+    },
+    {
+        "name": "Netherlands",
+        "iso-code-2": "NL",
+        "country-code": "528",
+        "phone-code": "31"
+    },
+    {
+        "name": "Netherlands Antilles",
+        "iso-code-2": "AN",
+        "country-code": "530",
+        "phone-code": "599"
+    },
+    {
+        "name": "New Caledonia",
+        "iso-code-2": "NC",
+        "country-code": "540",
+        "phone-code": "687"
+    },
+    {
+        "name": "New Zealand",
+        "iso-code-2": "NZ",
+        "country-code": "554",
+        "phone-code": "64"
+    },
+    {
+        "name": "Nicaragua",
+        "iso-code-2": "NI",
+        "country-code": "558",
+        "phone-code": "505"
+    },
+    {
+        "name": "Niger",
+        "iso-code-2": "NE",
+        "country-code": "562",
+        "phone-code": "227"
+    },
+    {
+        "name": "Nigeria",
+        "iso-code-2": "NG",
+        "country-code": "566",
+        "phone-code": "234"
+    },
+    {
+        "name": "Niue",
+        "iso-code-2": "NU",
+        "country-code": "570",
+        "phone-code": "683"
+    },
+    {
+        "name": "Norfolk Island",
+        "iso-code-2": "NF",
+        "country-code": "574",
+        "phone-code": "672"
+    },
+    {
+        "name": "North Korea (DPRK)",
+        "iso-code-2": "KP",
+        "country-code": "408",
+        "phone-code": "850"
+    },
+    {
+        "name": "North Macedonia",
+        "iso-code-2": "MK",
+        "country-code": "807",
+        "phone-code": "389"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "iso-code-2": "MP",
+        "country-code": "580",
+        "phone-code": "1-670"
+    },
+    {
+        "name": "Norway",
+        "iso-code-2": "NO",
+        "country-code": "578",
+        "phone-code": "47"
+    },
+    {
+        "name": "Oman",
+        "iso-code-2": "OM",
+        "country-code": "512",
+        "phone-code": "968"
+    },
+    {
+        "name": "Pakistan",
+        "iso-code-2": "PK",
+        "country-code": "586",
+        "phone-code": "92"
+    },
+    {
+        "name": "Palau",
+        "iso-code-2": "PW",
+        "country-code": "585",
+        "phone-code": "680"
+    },
+    {
+        "name": "Palestine, State of",
+        "iso-code-2": "PS",
+        "country-code": "275",
+        "phone-code": "970"
+    },
+    {
+        "name": "Panama",
+        "iso-code-2": "PA",
+        "country-code": "591",
+        "phone-code": "507"
+    },
+    {
+        "name": "Papua New Guinea",
+        "iso-code-2": "PG",
+        "country-code": "598",
+        "phone-code": "675"
+    },
+    {
+        "name": "Paraguay",
+        "iso-code-2": "PY",
+        "country-code": "600",
+        "phone-code": "595"
+    },
+    {
+        "name": "Peru",
+        "iso-code-2": "PE",
+        "country-code": "604",
+        "phone-code": "51"
+    },
+    {
+        "name": "Philippines",
+        "iso-code-2": "PH",
+        "country-code": "608",
+        "phone-code": "63"
+    },
+    {
+        "name": "Pitcairn",
+        "iso-code-2": "PN",
+        "country-code": "612",
+        "phone-code": "64"
+    },
+    {
+        "name": "Poland",
+        "iso-code-2": "PL",
+        "country-code": "616",
+        "phone-code": "48"
+    },
+    {
+        "name": "Portugal",
+        "iso-code-2": "PT",
+        "country-code": "620",
+        "phone-code": "351"
+    },
+    {
+        "name": "Puerto Rico",
+        "iso-code-2": "PR",
+        "country-code": "630",
+        "phone-code": "1-787, 1-939"
+    },
+    {
+        "name": "Qatar",
+        "iso-code-2": "QA",
+        "country-code": "634",
+        "phone-code": "974"
+    },
+    {
+        "name": "Reunion",
+        "iso-code-2": "RE",
+        "country-code": "638",
+        "phone-code": "262"
+    },
+    {
+        "name": "Romania",
+        "iso-code-2": "RO",
+        "country-code": "642",
+        "phone-code": "40"
+    },
+    {
+        "name": "Russian Federation",
+        "iso-code-2": "RU",
+        "country-code": "643",
+        "phone-code": "7"
+    },
+    {
+        "name": "Rwanda",
+        "iso-code-2": "RW",
+        "country-code": "646",
+        "phone-code": "250"
+    },
+    {
+        "name": "Saint Barthélemy",
+        "iso-code-2": "BL",
+        "country-code": "652",
+        "phone-code": "590"
+    },
+    {
+        "name": "Saint Helena, Ascension and Tristan da Cunha",
+        "iso-code-2": "SH",
+        "country-code": "654",
+        "phone-code": "290"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "iso-code-2": "KN",
+        "country-code": "659",
+        "phone-code": "1-869"
+    },
+    {
+        "name": "Saint Lucia",
+        "iso-code-2": "LC",
+        "country-code": "662",
+        "phone-code": "1-758"
+    },
+    {
+        "name": "Saint Martin (French part)",
+        "iso-code-2": "MF",
+        "country-code": "663",
+        "phone-code": "590"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "iso-code-2": "PM",
+        "country-code": "666",
+        "phone-code": "508"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "iso-code-2": "VC",
+        "country-code": "670",
+        "phone-code": "1-784"
+    },
+    {
+        "name": "Samoa",
+        "iso-code-2": "WS",
+        "country-code": "882",
+        "phone-code": "685"
+    },
+    {
+        "name": "San Marino",
+        "iso-code-2": "SM",
+        "country-code": "674",
+        "phone-code": "378"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "iso-code-2": "ST",
+        "country-code": "678",
+        "phone-code": "239"
+    },
+    {
+        "name": "Saudi Arabia",
+        "iso-code-2": "SA",
+        "country-code": "682",
+        "phone-code": "966"
+    },
+    {
+        "name": "Senegal",
+        "iso-code-2": "SN",
+        "country-code": "686",
+        "phone-code": "221"
+    },
+    {
+        "name": "Serbia",
+        "iso-code-2": "RS",
+        "country-code": "688",
+        "phone-code": "381"
+    },
+    {
+        "name": "Seychelles",
+        "iso-code-2": "SC",
+        "country-code": "690",
+        "phone-code": "248"
+    },
+    {
+        "name": "Sierra Leone",
+        "iso-code-2": "SL",
+        "country-code": "694",
+        "phone-code": "232"
+    },
+    {
+        "name": "Singapore",
+        "iso-code-2": "SG",
+        "country-code": "702",
+        "phone-code": "65"
+    },
+    {
+        "name": "Sint Maarten (Dutch part)",
+        "iso-code-2": "SX",
+        "country-code": "534",
+        "phone-code": "1-721"
+    },
+    {
+        "name": "Slovakia",
+        "iso-code-2": "SK",
+        "country-code": "703",
+        "phone-code": "421"
+    },
+    {
+        "name": "Slovenia",
+        "iso-code-2": "SI",
+        "country-code": "705",
+        "phone-code": "386"
+    },
+    {
+        "name": "Solomon Islands",
+        "iso-code-2": "SB",
+        "country-code": "090",
+        "phone-code": "677"
+    },
+    {
+        "name": "Somalia",
+        "iso-code-2": "SO",
+        "country-code": "706",
+        "phone-code": "252"
+    },
+    {
+        "name": "South Africa",
+        "iso-code-2": "ZA",
+        "country-code": "710",
+        "phone-code": "27"
+    },
+    {
+        "name": "South Georgia and the South Sandwich Islands",
+        "iso-code-2": "GS",
+        "country-code": "239",
+        "phone-code": "500"
+    },
+    {
+        "name": "South Sudan",
+        "iso-code-2": "SS",
+        "country-code": "728",
+        "phone-code": "211"
+    },
+    {
+        "name": "Spain",
+        "iso-code-2": "ES",
+        "country-code": "724",
+        "phone-code": "34"
+    },
+    {
+        "name": "Sri Lanka",
+        "iso-code-2": "LK",
+        "country-code": "144",
+        "phone-code": "94"
+    },
+    {
+        "name": "Sudan",
+        "iso-code-2": "SD",
+        "country-code": "729",
+        "phone-code": "249"
+    },
+    {
+        "name": "Suriname",
+        "iso-code-2": "SR",
+        "country-code": "740",
+        "phone-code": "597"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "iso-code-2": "SJ",
+        "country-code": "744",
+        "phone-code": "47"
+    },
+    {
+        "name": "Swaziland",
+        "iso-code-2": "SZ",
+        "country-code": "748",
+        "phone-code": "268"
+    },
+    {
+        "name": "Sweden",
+        "iso-code-2": "SE",
+        "country-code": "752",
+        "phone-code": "46"
+    },
+    {
+        "name": "Switzerland",
+        "iso-code-2": "CH",
+        "country-code": "756",
+        "phone-code": "41"
+    },
+    {
+        "name": "Syrian Arab Republic",
+        "iso-code-2": "SY",
+        "country-code": "760",
+        "phone-code": "963"
+    },
+    {
+        "name": "Taiwan, Province of China",
+        "iso-code-2": "TW",
+        "country-code": "158",
+        "phone-code": "886"
+    },
+    {
+        "name": "Tajikistan",
+        "iso-code-2": "TJ",
+        "country-code": "762",
+        "phone-code": "992"
+    },
+    {
+        "name": "Tanzania, United Republic of",
+        "iso-code-2": "TZ",
+        "country-code": "834",
+        "phone-code": "255"
+    },
+    {
+        "name": "Thailand",
+        "iso-code-2": "TH",
+        "country-code": "764",
+        "phone-code": "66"
+    },
+    {
+        "name": "Timor-Leste",
+        "iso-code-2": "TL",
+        "country-code": "626",
+        "phone-code": "670"
+    },
+    {
+        "name": "Togo",
+        "iso-code-2": "TG",
+        "country-code": "768",
+        "phone-code": "228"
+    },
+    {
+        "name": "Tokelau",
+        "iso-code-2": "TK",
+        "country-code": "772",
+        "phone-code": "690"
+    },
+    {
+        "name": "Tonga",
+        "iso-code-2": "TO",
+        "country-code": "776",
+        "phone-code": "676"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "iso-code-2": "TT",
+        "country-code": "780",
+        "phone-code": "1-868"
+    },
+    {
+        "name": "Tunisia",
+        "iso-code-2": "TN",
+        "country-code": "788",
+        "phone-code": "216"
+    },
+    {
+        "name": "Turkey",
+        "iso-code-2": "TR",
+        "country-code": "792",
+        "phone-code": "90"
+    },
+    {
+        "name": "Turkmenistan",
+        "iso-code-2": "TM",
+        "country-code": "795",
+        "phone-code": "993"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "iso-code-2": "TC",
+        "country-code": "796",
+        "phone-code": "1-649"
+    },
+    {
+        "name": "Tuvalu",
+        "iso-code-2": "TV",
+        "country-code": "798",
+        "phone-code": "688"
+    },
+    {
+        "name": "Uganda",
+        "iso-code-2": "UG",
+        "country-code": "800",
+        "phone-code": "256"
+    },
+    {
+        "name": "Ukraine",
+        "iso-code-2": "UA",
+        "country-code": "804",
+        "phone-code": "380"
+    },
+    {
+        "name": "United Arab Emirates",
+        "iso-code-2": "AE",
+        "country-code": "784",
+        "phone-code": "971"
+    },
+    {
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "iso-code-2": "GB",
+        "country-code": "826",
+        "phone-code": "44"
+    },
+    {
+        "name": "United States of America",
+        "iso-code-2": "US",
+        "country-code": "840",
+        "phone-code": "1"
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "iso-code-2": "UM",
+        "country-code": "581",
+        "phone-code": "1"
+    },
+    {
+        "name": "Uruguay",
+        "iso-code-2": "UY",
+        "country-code": "858",
+        "phone-code": "598"
+    },
+    {
+        "name": "Uzbekistan",
+        "iso-code-2": "UZ",
+        "country-code": "860",
+        "phone-code": "998"
+    },
+    {
+        "name": "Vanuatu",
+        "iso-code-2": "VU",
+        "country-code": "548",
+        "phone-code": "678"
+    },
+    {
+        "name": "Venezuela (Bolivarian Republic of)",
+        "iso-code-2": "VE",
+        "country-code": "862",
+        "phone-code": "58"
+    },
+    {
+        "name": "Vietnam",
+        "iso-code-2": "VN",
+        "country-code": "704",
+        "phone-code": "84"
+    },
+    {
+        "name": "Virgin Islands (British)",
+        "iso-code-2": "VG",
+        "country-code": "092",
+        "phone-code": "1-284"
+    },
+    {
+        "name": "Virgin Islands (U.S.)",
+        "iso-code-2": "VI",
+        "country-code": "850",
+        "phone-code": "1-340"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "iso-code-2": "WF",
+        "country-code": "876",
+        "phone-code": "681"
+    },
+    {
+        "name": "Western Sahara",
+        "iso-code-2": "EH",
+        "country-code": "732",
+        "phone-code": "212"
+    },
+    {
+        "name": "Yemen",
+        "iso-code-2": "YE",
+        "country-code": "887",
+        "phone-code": "967"
+    },
+    {
+        "name": "Zambia",
+        "iso-code-2": "ZM",
+        "country-code": "894",
+        "phone-code": "260"
+    },
+    {
+        "name": "Zimbabwe",
+        "iso-code-2": "ZW",
+        "country-code": "716",
+        "phone-code": "263"
+    }
+]

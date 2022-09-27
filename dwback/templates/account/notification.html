@@ -1,0 +1,59 @@
+{% block notification %}
+  <h3>Notifications</h3>
+  <small id="usernameHelp" class="form-text text-muted">
+    We'll always let you know about important changes, 
+    but you pick what else you want to hear about.<br/>
+    Pick which notifications to see while in the app or on the site.
+  </small>
+  <hr>
+  <form>
+    <div class="form-group">
+        <h5>Notification Services</h5>
+        <div class="form-group row">
+          <div class="form-group col-sm-1">
+            <div class="form-check form-switch">
+              <input class="form-check-input" type="checkbox" role="switch" id="CheckNotifApp" checked>
+            </div>
+          </div>  
+          <div class="form-group col-sm-3"">
+            <label for="enableEmail">On the Application</label>
+          </div>
+        </div>
+
+        <div class="form-group row">
+          <div class="form-group col-sm-1">
+            <div class="form-check form-switch">
+              <input class="form-check-input" type="checkbox" role="switch" id="CheckNotifEmail" checked>
+            </div>
+          </div>  
+          <div class="form-group col-sm-3"">
+            <label for="enableEmail">By email</label>
+          </div>
+        </div>
+
+        <div class="form-group row">
+          <div class="form-group col-sm-1">
+            <div class="form-check form-switch">
+              <input class="form-check-input" type="checkbox" role="switch" id="CheckNotifPush" checked>
+            </div>
+          </div>  
+          <div class="form-group col-sm-3"">
+            <label for="enableSms">By Push notification</label>
+          </div>
+        </div>
+
+        <div class="form-group row">
+          <div class="form-group col-sm-1">
+            <div class="form-check form-switch">
+              <input class="form-check-input" type="checkbox" role="switch" id="CheckNotifSec" checked>
+            </div>
+          </div> 
+          <div class="form-group col-sm-3"">
+            <label for="enableSms">Security Alerts (*)</label>
+          </div>
+           <div class="small text-muted mb-3">(*) Receive security alert notifications via email</div>
+        </div>
+      </div>
+  </form>
+{% endblock %}
+

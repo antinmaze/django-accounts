@@ -1,0 +1,4 @@
+django-cors-headers
+pillow
+django-phonenumber-field[phonenumberslite]
+django-random-image-from-folder

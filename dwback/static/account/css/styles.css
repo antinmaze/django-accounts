@@ -1,12 +1,8 @@
 @charset "UTF-8";
-
 /*!
 * Account Module - Diwido
-* Copyright 2022 Diwido
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-new-age/blob/master/LICENSE)
-background-color: #e2e8f0;    
+* Licensed under MIT
 */
-
 
 body{
     margin-top: 1rem;
@@ -32,6 +28,10 @@ body{
 }
 .row {
     padding-left: -1em;
+}
+
+.alert-text{
+    color: red;
 }
 
 .fas-custom{
@@ -60,11 +60,13 @@ body{
     border: 0 solid rgba(0,0,0,.125);
     border-radius: .25rem;
     box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
+    margin-bottom: 2rem;
 }
 .card-body {
     flex: 1 1 auto;
     min-height: 1px;
     padding: 1rem;
+    margin-bottom: 0rem;
 }
 
 .gutters-sm {
@@ -86,4 +88,25 @@ body{
 }
 .shadow-none {
     box-shadow: none!important;
+}
+
+.show{
+    margin-top: 0rem;
+}
+
+.phone{
+    margin-top: 0rem;
+}
+
+input:optional {
+    border-color: gray;
+}
+input:required {
+    border-color: black;
+}
+input:valid {
+    border-color: lightgreen;
+}
+input:invalid {
+    border-color: lightcoral;
 }

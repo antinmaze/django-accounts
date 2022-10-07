@@ -11509,6 +11509,7 @@ footer a:hover, footer a:active, footer a:focus {
   padding-top: 5rem;
   padding-bottom: 5rem;
   margin-top: -1rem;
+  margin-bottom: 0rem;
 }
 .masthead .masthead-device-mockup {
   display: flex;

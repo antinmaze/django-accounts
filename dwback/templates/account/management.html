@@ -9,8 +9,10 @@
     <div class="form-group row">
       <div class="form-group col-sm-6"">
         <label class="d-block mb-2"><h5>Change Email</h5></label>
-        <input type="text" class="form-control mb-3" id="email" aria-describedby="emailHelp" placeholder="Enter your email" 
-          value="">
+        <input type="email" class="form-control mb-3" id="email" aria-describedby="emailHelp" placeholder="Enter your email"
+          oninput="this.reportValidity();" oninvalid="this.setCustomValidity('Enter a valid email');" 
+          onblur="this.setCustomValidity('');" value="" pattern="(\w\.?)+@[\w\.-]+\.\w{2,}">
+          <small id="emaileHelp" class="form-text alert-text text-muted" style="display:none;"></small>
           <button type="button" class="btn btn-custom btn-success mb-1 mt-1">Save Email</button>
         </div>
     </div>
@@ -21,12 +23,24 @@
         <div class="form-group col-sm-4"">
           <label class="d-block mb-2"><h5>Change Password</h5></label>
           <input type="password" class="form-control  mb-3" id="oldpassword" name="oldpassword"  data-toggle="password"
-            aria-describedby="passwordHelp" placeholder="Enter your old password" value="">
-            <input type="password" class="form-control mb-3" id="password" name="password"  data-toggle="password"
+            oninput="this.reportValidity();" minlength="8" maxlength="24"
+            oninvalid="this.setCustomValidity('8 to 24 caracters with at least 1 lower, 1 upper, 1 numeric value and 1 special symbola (?=.*[!@#$%^&*_=+-])');" 
+            onblur="this.setCustomValidity('');" value="" pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&*_=+-]).{8,24}$"  
+            aria-describedby="passwordHelp" placeholder="Enter your old password" >
+
+          <input type="password" class="form-control mb-3" id="password" name="password"  data-toggle="password"
+            oninput="this.reportValidity();" minlength="8" maxlength="24"
+            oninvalid="this.setCustomValidity('8 to 24 caracters with at least 1 lower, 1 upper, 1 numeric value and 1 special symbola (?=.*[!@#$%^&*_=+-])');" 
+            onblur="this.setCustomValidity('');" value="" pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&*_=+-]).{8,24}$"  
             aria-describedby="passwordHelp" placeholder="New password" value="">
-            <input type="password" class="form-control mb-3" id="newpassword" name="newpassword"  data-toggle="password"
+          
+          <input type="password" class="form-control mb-3" id="newpassword" name="newpassword"  data-toggle="password"
+            oninput="this.reportValidity();" minlength="8" maxlength="24"
+            oninvalid="this.setCustomValidity('8 to 24 caracters with at least 1 lower, 1 upper, 1 numeric value and 1 special symbola (?=.*[!@#$%^&*_=+-])');" 
+            onblur="this.setCustomValidity('');" value="" pattern="^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&*_=+-]).{8,24}$"  
             aria-describedby="passwordHelp" placeholder="Confirm new password" value="">
-              <button type="button" class="btn btn-custom btn-success mb-1 mt-1">Save Password</button>
+            
+            <button type="button" class="btn btn-custom btn-success mb-1 mt-1">Save Password</button>
         </div>
       </div>                  
     </form>

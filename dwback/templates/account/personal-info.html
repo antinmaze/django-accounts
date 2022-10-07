@@ -4,54 +4,78 @@
     aria-labelledby="list-personalinfo-list">
     <h3>Personal Information</h3>
     <hr>
-    <form>
+      <form id="personalinfo" name="personalinfo">
+      {% csrf_token %}
+      {{form }}
       <div class="form-group row">
         <div class="form-group col-sm-6"">
-          <label for="firstName">First Name</label>
+          <label for="firstName">First Name *</label>
           <input type="text" class="form-control" id="firstname" aria-describedby="firstnameHelp" 
-            placeholder="Enter your First Name" value="">
+            name="firstname" placeholder="Enter your First Name" value="" minlength="1" maxlength="30" pattern="([a-zA-ZÀ-ž\s-]+)" 
+            required oninput="this.reportValidity();" oninvalid="this.setCustomValidity('Enter only characters, space or hyphen');"
+            onblur="this.setCustomValidity('');">            
+            <small id="firstnameHelp" class="form-text alert-text text-muted" style="display:none;"></small>
         </div>
         <div class="form-group col-sm-6">
-          <label for="lastName">Last Name</label>
+          <label for="lastName">Last Name *</label>
           <input type="text" class="form-control" id="lastname" aria-describedby="lastnameHelp" 
-            placeholder="Enter your Last Name" value="">
+            name="lastname" placeholder="Enter your Last Name" minlength="1" maxlength="30" pattern="([a-zA-ZÀ-ž\s-]+)" 
+            required oninput="this.reportValidity();" oninvalid="this.setCustomValidity('Enter only characters, space or hyphen');" 
+            onblur="this.setCustomValidity('');">           
+            <small id="lastnameHelp" class="form-text alert-text text-muted" style="display:none;"></small>
         </div>
       </div>
       <div class="form-group">
         <label for="bio">About</label>
         <textarea class="form-control autosize" id="bio" placeholder="Write something about you" 
-          style="overflow: hidden; overflow-wrap: break-word; resize: none; 
-          height: 62px;">Write something about you !</textarea>
+          name="bio" style="overflow: hidden; overflow-wrap: break-word; resize: none; 
+          height: 62px;" maxlength="160">Write something about you !</textarea>
       </div>
       <div class="form-group row">
         <div class="form-group col-sm-6">
           <label for="country">Country</label>
-          <input type="text" class="form-control" id="country" aria-describedby="countryHelp" 
-            placeholder="Select your Country" data-prefetch="{% static 'account/assets/countries/countries.json' %}">
+          <div class="form-item">
+            <input type="text" class="form-control" id="country_selector" aria-describedby="countryHelp" 
+              placeholder="Select your Country" >
+            <label for="country_selector" style="display:none;">Select a country</label>
+          </div>
+          <div class="form-item" style="display:none;">
+              <input type="text" id="country_selector_code" name="country_selector_code" 
+                name="country" data-countrycodeinput="1" readonly="readonly" placeholder="selected country here" >
+              <label for="country_selector_code"></label>
+          </div>           
         </div>
         <div class="form-group col-sm-6">
-          <label for="phone">Phone numbers</label>
-          <input type="text" class="form-control" id="phone" aria-describedby="phoneHelp" 
-            placeholder="Enter your phone number" value="">
+          <label for="phone">Phone number</label><br>
+          <input type="tel" class="form-control" id="phone" aria-describedby="phoneHelp" name="phone" 
+            placeholder="Enter your phone number" value="" maxlength="20"   pattern="^[0-9\s-]+$" 
+            oninput="this.reportValidity();" oninvalid="this.setCustomValidity('Enter numbers, space or hyphen');" 
+            onblur="this.setCustomValidity('');" >            
         </div>
       </div>
       <div class="form-group">
         <label for="url">Website</label>
-        <input type="text" class="form-control" id="url" placeholder="Enter your website address" value="">
+        <input type="text" class="form-control" id="url" placeholder="Enter your website address" 
+          value="https://" maxlength="50" >
       </div>
-      <div class="form-group">
-        <label for="username">Username <i>(unchangeable)</i></label>
-        <input type="text" class="form-control" id="username" placeholder="Your definitive username" value="">
+      <div class="form-group row">
+        <div class="form-group col-sm-6"">
+          <label for="username">Username <i>(unchangeable)</i></label>
+          <input type="text" class="form-control" id="username" placeholder="Your definitive username" 
+            name="username" value=""  minlength="6" maxlength="30" >
+          <small id="usernameHelp" class="form-text alert-text text-muted" style="display:none;" pattern="([A-z0-9\s]){2,}" ></small>
+        </div>
+        <div class="form-group col-sm-6">
+        </div>
       </div>
       <div class="form-group row">
         <div class="form-group col-sm-4 me-4">
-          <button type="reset" class="btn btn-custom btn-secondary  mb-1">Reset</button>
+          <button type="reset" class="btn btn-custom btn-secondary mb-1" value="reset">Reset</button>
         </div>
         <div class="form-group col-sm-4 me-4">
-          <button type="button" class="btn btn-custom btn-success mb-1">Save</button>
+          <button type="submit" class="btn btn-custom btn-success mb-1" value="submit">Save</button>
         </div>
       </div>
     </form>  
   </div>
 {% endblock %}
-

@@ -1,5 +1,7 @@
+"""Account Apps"""
 from django.apps import AppConfig
 
 class AccountConfig(AppConfig):
+    """AccountConfig objet"""
     default_auto_field = 'django.db.models.BigAutoField'
     name = 'account'

@@ -1,11 +1,14 @@
 """Account Urls"""
 from django.urls import path
+from . import views
 #from django.conf import settings
 #from django.conf.urls.static import static
-from . import views
 
 urlpatterns = [
-    path('', views.index, name='account'),
+    path('login/', views.login, name='login'),
+    path('register/', views.register, name='register'),
+    path('password/', views.password, name='password'),
+    path('', views.account, name='account'),
 ]
 
 #manage access to the photos media

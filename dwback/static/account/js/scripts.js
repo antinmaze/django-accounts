@@ -12,6 +12,7 @@ window.intlTelInput(input, {
   autoHideDialCode: false,
   initialCountry: "fr",
   preferredCountries: ['fr', 'us'],
+  autoPlaceholder: "France",
 });
 
 /**
@@ -138,33 +139,52 @@ function profilValidation(){
 }
 
 //triggers when user submits the form
+//NOT USED ????
+//form.addEventListener("submit",(e) => {
+//  e.preventDefault();
+//  profilValidation();
+//});
 
-form.addEventListener("submit",(e) => {
-  e.preventDefault();
-  profilValidation();
-});
-// Focusout event listener. Triggers when the user clicks anywhere else besides the input
-/*
-email.addEventListener("focusout", (e)=>{
-  nameValidation("firstname", "firstnameHelp", true);
-});
-*/
+/**
+ * Get Variable from the URL
+ */
+function getUrlVars() {
+  var vars = {};
+  var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+      vars[key] = value;
+  });
+  return vars;
+}
 
-/*
-jQuery("form").submit(function(e){
-  e.de.preventDefault();  
-  //or
-  //return false;
-});
-*/
+/**
+ * Get the Parameter from the URL with default value if required
+ */
+ function getUrlParam(parameter, defaultvalue){
+  var urlparameter = defaultvalue;
+  if(window.location.href.indexOf(parameter) > -1){
+      urlparameter = getUrlVars()[parameter];
+      }
+  if (urlparameter !== undefined) {
+    return urlparameter;
+  } else {
+    return defaultvalue;
+  }
+}
 
-//let id = (id) => document.getElementById(id);
-//let classes = (classes) => document.getElementsByClassName(classes);
-/*
-$(document).ready(function() { 
-  $("input").focusout(function() { 
-        // If it is not blank.
-        $(this).css('border', 'solid 2px green');    
-  }) .trigger("focusout");
-}); 
-*/
+/**
+ * Show Register Panel using onclick
+ */
+ function showRegister() {
+  var tab_login = document.getElementById("pills-login-tab");
+  tab_login.classList.remove("active");
+  var tab_register = document.getElementById("pills-register-tab");
+  tab_register.classList.add("active");
+
+  var login = document.getElementById("pills-login");
+  login.classList.remove("show");
+  login.classList.remove("active");
+
+  var register = document.getElementById("pills-register");
+  register.classList.add("show");
+  register.classList.add("active");
+}
